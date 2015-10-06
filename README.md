@@ -1,7 +1,7 @@
 # alpine-java
 
-Minimal [Java][jav] [Docker][doc] image built on [Alpine][alp].
+Minimal [OpenJDK JRE][jdk] [Docker][doc] image built on [Alpine][alp].
 
-[jav]: https://www.java.com/en/
+[jdk]: http://openjdk.java.net/
 [doc]: https://www.docker.com/
 [alp]: https://www.alpinelinux.org/
