@@ -1,4 +1,4 @@
-FROM alpine:3.2
+FROM alpine:3.3
 
 MAINTAINER Jesse B. Hannah <jesse@jbhannah.net>
 
